@@ -2,7 +2,7 @@
 Olá 👋
 
 
-<h6>Meu nome é Johnny Jefferson, Técnico em Desenvolvimento de Sistemas e apaixonado por Desenvolvimento.</h6>
+<h4>Meu nome é Johnny Jefferson, Técnico em Desenvolvimento de Sistemas e apaixonado por Desenvolvimento.</h4>
 
 - Profissão: Atualemtne eu sou militar, na #Academia Militar das Agulhas Negra em Resende/RJ,
 - Estudando: HTML5, CSS3, Javascript, React.js, bootstrap5, Node.js, Docker, TypeScript e mais!
