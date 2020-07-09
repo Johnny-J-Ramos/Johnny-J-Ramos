@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-Meu nome é Lucas Bittencourt, Técnico em Desenvolvimento de Sistemas e apaixonado por Desenvolvimento.
+Meu nome é Johnny Jefferson, Técnico em Desenvolvimento de Sistemas e apaixonado por Desenvolvimento.
 
-- 🔭 office_worker Trabalhando como estagiário Desenvolvedor na LIAX Tecnologia
-- 🌱 blue_heart Techs: React.js, React Native, Node.js, Docker, TypeScript e mais!
-- 👯 books Estudando sobre CI/CD com Jenkins, Docker e AWS heart
+- 🔭 office_worker Atualemtne eu sou militar, na #Academia Militar das Agulhas Negra em Resende/RJ,
+- 🌱 blue_heart Techs: HTML5, CSS3, Javascript, React.js, bootstrap5, Node.js, Docker, TypeScript e mais!
+- Eu tenho muita garra e força de vontade para aprender! 
 
 https://github.com/Johnny-J-Ramos
