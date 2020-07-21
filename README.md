@@ -1,7 +1,7 @@
 <h1>JOHNNY JEFFERSON</h1> 
 Olá 👋
 
-
+ 
 <h4>Meu nome é Johnny Jefferson, eu sou estudante em Análise e Desenvolvimento de Sistemas, e apaixonado por Tecnologia.</h4>
 
 - Profissão: Atualmente eu sou militar, na Academia Militar das Agulhas Negra em Resende/RJ.
