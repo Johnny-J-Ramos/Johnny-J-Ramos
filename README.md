@@ -8,4 +8,4 @@ Olá 👋
 - Profissão: Atualmente eu sou militar, na Academia Militar das Agulhas Negra em Resende/RJ.
 - Estudando: HTML5, CSS3, Javascript, React.js, bootstrap5, Node.js, Docker, TypeScript e mais...
 - Eu tenho muita garra e força de vontade para aprender! 
-.
+
