@@ -89,3 +89,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diegojunges&" alt="diegojunges" /></p>
 
 <br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Johnny-J-Ramos)](https://github.com/anuraghazra/github-readme-stats)
