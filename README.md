@@ -1,16 +1,12 @@
 <h1>JOHNNY JEFFERSON</h1> 
-# Obrigado por visitar meu repositório <img width="30" src="https://emojis.slackmojis.com/emojis/images/1584725315/8264/blob-sign-yes.gif?1584725315" alt="Yes emoji" />
-
-<img align="right" width="30%" src="https://media.giphy.com/media/24C2paIV0IBEY/giphy.gif" alt="Starry sky" />
+# Obrigado por visitar meu repositório
 
 ### Você é bem-vindo!
 
 <p>
   Olá, meu nome é Johnny Jefferson, eu sou desenvolvedor Frontend
-  <img width="16" src="https://www.flaticon.com/svg/static/icons/svg/197/197386.svg" alt="Brazil" />
-  <b>Brazil</b>.
+  
 </p>
-
 <br/>
 
 ### Como você pode me encontrar:
@@ -22,7 +18,6 @@
 <a href="mailto:johnnyjeffersonjr@hotmail.com">
   <code><img alt="My e-mail" width="32" src="https://emojis.slackmojis.com/emojis/images/1531855342/4249/outlook.png?1531855342" /></code>
 </a>
-
 <br/><br/>
 
 ### Sobre mim
