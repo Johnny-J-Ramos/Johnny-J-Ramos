@@ -82,12 +82,10 @@
 
 <br/>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=diegojunges&show_icons=true&locale=en&layout=compact" alt="diegojunges" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Johnny-J-Ramos_icons=true&locale=en&layout=compact" alt="Johnny-J-Ramos" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diegojunges&show_icons=true&locale=en" alt="diegojunges" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Johnny-J-Ramos&show_icons=true&locale=en" alt="Johnny-J-Ramos" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diegojunges&" alt="diegojunges" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Johnny-J-Ramos&" alt="Johnny-J-Ramos" /></p>
 
 <br/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Johnny-J-Ramos)](https://github.com/anuraghazra/github-readme-stats)
