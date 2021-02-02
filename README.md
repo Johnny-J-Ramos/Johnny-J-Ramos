@@ -1,7 +1,7 @@
 <h1>JOHNNY JEFFERSON</h1> 
 # Obrigado por visitar meu repositório
 
-### Você é bem-vindo!ggggggg
+### Você é bem-vindo!
 
 <p>
   Olá, meu nome é Johnny Jefferson, eu sou desenvolvedor Frontend
