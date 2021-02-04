@@ -28,10 +28,6 @@
 
 - 🌱Eu tenho buscado aprimorar meus conhecimentos todos os dias em Frontend na linguagem Javascript e bibliotécas;
 
-- 🏆 My favorite challenge is learn something new everyday(ps: currently studying about 10 hours/day);
-
-## Minha pilha de desenvolvimento
-
 **Liguagem**
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
