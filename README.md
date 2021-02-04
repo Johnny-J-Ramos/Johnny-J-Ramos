@@ -4,7 +4,7 @@
 ### Você é bem-vindo!
 
 <p>
-  Olá, meu nome é Johnny Jefferson, eu sou desenvolvedor Frontend
+  Olá, meu nome é Johnny Jefferson, eu sou desenvolvedor Frontend Júnior
   
 </p>
 <br/>
