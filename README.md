@@ -5,12 +5,10 @@
 
 <p>
   Olá, meu nome é Johnny Jefferson, eu sou desenvolvedor Frontend Júnior
-  
 </p>
 <br/>
 
 ### Como você pode me encontrar:
-
 <a href="https://www.linkedin.com/in/johnny-jefferson1010/">
   <code><img alt="My linkedin" width="28" src="https://emojis.slackmojis.com/emojis/images/1470343326/711/linkedin.png?1470343326" /></code>
 </a>
@@ -34,7 +32,6 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
 
 **Desenvolvimento de front-end**
-
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="32"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height="40"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
